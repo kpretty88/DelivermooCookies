@@ -1,6 +1,3 @@
-
-Certainly! Here's a simple HTML code for a cookie usage notice on a website:
-
 html
 Copy code
 <!DOCTYPE html>
